@@ -19,7 +19,6 @@
 
 
 
-<?php wp_footer(); ?>
+
 </body>
 </html>
-hero
